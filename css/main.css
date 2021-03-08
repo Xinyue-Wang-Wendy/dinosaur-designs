@@ -14,6 +14,7 @@ img{
 }
 
 h1, h2, h3, h4 {
+  font-family: 'Denk One', sans-serif;
   color: #5d8432;
   text-transform: uppercase;
 }
