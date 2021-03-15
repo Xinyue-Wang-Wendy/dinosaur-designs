@@ -5,16 +5,16 @@ html {
   line-height: 1.5;
 }
 
- *, *::before, *::after{
+*, *::before, *::after {
   box-sizing: inherit;
 }
 
-img{
+img {
   width: 100%;
 }
 
 h1, h2, h3, h4 {
-  font-family: 'Denk One', sans-serif;
+  font-family: "Denk One", sans-serif;
   color: #5d8432;
   text-transform: uppercase;
 }
@@ -40,11 +40,11 @@ nav a {
   text-decoration: none;
 }
 
-nav a:hover{
+nav a:hover {
   color: #b42885;
   text-decoration: underline;
 }
 
-.intro{
+.intro {
   font-size: 1rem;
 }
