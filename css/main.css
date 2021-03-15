@@ -36,7 +36,7 @@ nav ol {
 }
 
 nav a {
-  color: #793284
+  color: #793284;
   text-decoration: none;
 }
 
@@ -46,5 +46,5 @@ nav a:hover{
 }
 
 .intro{
-  font-size: 1rem
+  font-size: 1rem;
 }
